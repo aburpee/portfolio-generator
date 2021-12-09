@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "portfolio generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "adam github"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aburpee/portfolio-generator.git"
+  },
+  "keywords": [
+    "adam",
+    "burpee"
+  ],
+  "author": "adam burpee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aburpee/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/aburpee/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
